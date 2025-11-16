@@ -1,4 +1,4 @@
-# 📘 Tugas Praktikum C++ – Program Pengolahan Data Sederhana
+# 📘 Peraturan & Ketentuan
 
 Dokumen ini berisi ketentuan lengkap pembuatan program untuk tugas praktikum C++.  
 Seluruh praktikan wajib mengikuti aturan yang telah ditentukan.
