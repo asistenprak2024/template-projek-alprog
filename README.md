@@ -1,5 +1,4 @@
-# Judul Program
-Tuliskan judul program kalian di sini.
+# [Judul Program]
 
 ## Deskripsi Program
 Tuliskan deskripsi singkat mengenai program:
